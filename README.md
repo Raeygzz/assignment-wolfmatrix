@@ -43,10 +43,14 @@ yarn install
 ## Run Locally
 
 ```bash
-npx expo start --web
+yarn start
 or
-yarn expo start --web
+npm start
 ```
+
+and after that
+
+Scan the QR Code on terminal from `expo go` app (which you can download from play or app store) or from camera app
 
 ## Script
 
